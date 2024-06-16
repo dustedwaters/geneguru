@@ -1302,7 +1302,7 @@ a {
   }
 }
 .cid-ufCp7f4fL6 {
-  padding-top: 9rem;
+  padding-top: 10rem;
   padding-bottom: 6rem;
   background-color: #3cb3b7;
 }
@@ -1962,7 +1962,7 @@ a {
 }
 .cid-ufOdcRTtrp {
   padding-top: 10rem;
-  padding-bottom: 10rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
 }
 .cid-ufOdcRTtrp .mbr-fallback-image.disabled {
@@ -1986,7 +1986,12 @@ a {
   }
 }
 .cid-ufOdcRTtrp .item-wrapper {
+  height: 300px;
   position: relative;
+}
+.cid-ufOdcRTtrp .item-wrapper img {
+  height: 100%;
+  object-fit: cover;
 }
 .cid-ufOdcRTtrp .item-wrapper .icon-wrapper {
   pointer-events: none;
@@ -2226,8 +2231,8 @@ a {
   cursor: pointer;
 }
 .cid-ufNXiJh8G4 {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-color: #c6ffea;
 }
 .cid-ufNXiJh8G4 .mbr-fallback-image.disabled {
@@ -2597,7 +2602,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tHeG7yune1 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.3rem);
+    max-height: calc(98.5vh - 3.5rem);
   }
 }
 .cid-tHeG7yune1 .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -3016,8 +3021,8 @@ a {
   color: #232323;
 }
 .cid-tIsj2q7oBw {
-  padding-top: 8rem;
-  padding-bottom: 8rem;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-color: #ffaac7;
 }
 .cid-tIsj2q7oBw .mbr-fallback-image.disabled {
@@ -3859,7 +3864,7 @@ a {
   }
 }
 .cid-ufOJLdZXcv {
-  padding-top: 9rem;
+  padding-top: 10rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
@@ -4830,7 +4835,7 @@ a {
   }
 }
 .cid-ufOKecUmLe {
-  padding-top: 9rem;
+  padding-top: 10rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
@@ -5801,7 +5806,7 @@ a {
   }
 }
 .cid-ufOKr2cSIb {
-  padding-top: 9rem;
+  padding-top: 10rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
@@ -6772,7 +6777,7 @@ a {
   }
 }
 .cid-ufOKwWGLWi {
-  padding-top: 9rem;
+  padding-top: 10rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
@@ -7744,7 +7749,7 @@ a {
 }
 .cid-ufOKJsyIi3 {
   padding-top: 10rem;
-  padding-bottom: 10rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
 }
 .cid-ufOKJsyIi3 .mbr-fallback-image.disabled {
